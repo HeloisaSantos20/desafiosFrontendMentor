@@ -17,20 +17,15 @@ Essa é a minha solução para [Order summary card challenge on Frontend Mentor]
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 
 
 
 ### Links
+- URL da solução: [Repositório Github]
 
-- Live Site URL:https://heloisasantos20.github.io/desafiosFrontendMentor/](https://heloisasantos20.github.io/desafiosFrontendMentor/)
+- Live Site URL: [URL Implantado] https://heloisasantos20.github.io/desafiosFrontendMentor/
 
 ## My process
 
@@ -57,7 +52,6 @@ Pretendo produzir mais projetos com Desing Responsivo e Flex-box. Além disso, t
 
 ## Author
 
-- Website - [Heloisa](https://heloisasantos20.github.io/desafiosFrontendMentor/)
 - Frontend Mentor - [@HeloisaSantos20](https://www.frontendmentor.io/profile/HeloisaSantos20)
 
 
