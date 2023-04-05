@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./capturaDeTela.jpg.jpg)
+![](./capturaDeTela.jpg)
 
 
 
