@@ -19,7 +19,8 @@ Essa é a minha solução para [Order summary card challenge on Frontend Mentor]
 
 ### Screenshot
 
-![resultado.png]
+!
+![resultado](https://user-images.githubusercontent.com/128840247/230151189-c921fdce-c9d8-4c6d-b929-2b2385075165.png)
 
 
 
