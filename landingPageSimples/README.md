@@ -19,14 +19,14 @@ Essa é a minha solução para [Order summary card challenge on Frontend Mentor]
 
 ### Screenshot
 
-![resultadoFinal](https://user-images.githubusercontent.com/128840247/229261076-1e168808-f83a-4889-ace0-70ca61788fb0.jpg)
+![resultado.png]
 
 
 
 ### Links
-- URL da solução: [Repositório Github]
+- URL da solução: [Repositório Github] (https://github.com/HeloisaSantos20/desafiosFrontendMentor/tree/main/landingPageSimples)
 
-- Live Site URL: [URL Implantado] https://heloisasantos20.github.io/desafiosFrontendMentor/
+- Live Site URL: [URL Implantado] (https://heloisasantos20.github.io/desafiosFrontendMentor/landingPageSimples)
 
 ## My process
 
