@@ -7,7 +7,7 @@
    --cor4 :hsl(213, 20%, 18%);
    --cor5: hsl(216, 12%, 8%);
    --cor6: hsl(25, 97%, 53%);
-   --cor7: hsl(215, 20%, 23%);
+   --cor7: rgba(47, 57, 70, 0.548);
    --font1:'Overpass', sans-serif;
 }
 
@@ -36,7 +36,7 @@
 
  }
  .mainContainer, .thankContainer{
-    background-color: var(--cor4);
+    background-image: linear-gradient( to bottom, hsl(212, 19%, 17%), hsl(220, 16%, 11%) );
     border-radius: 2rem;
     padding: 2rem;
     max-width: 25rem;
