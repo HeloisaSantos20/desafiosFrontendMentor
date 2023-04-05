@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HeloisaSantos20/desafiosFrontendMentor/tree/main/InteractiveRatingComponent)
-- Live Site URL: [Add live site URL here](https://heloisasantos20.github.io/desafiosFrontendMentor/InteractiveRatingComponent/)
+- Solution URL: [My Solution](https://github.com/HeloisaSantos20/desafiosFrontendMentor/tree/main/InteractiveRatingComponent)
+- Live Site URL: [live site](https://heloisasantos20.github.io/desafiosFrontendMentor/InteractiveRatingComponent/)
 
 ## My process
 
