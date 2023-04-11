@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HeloisaSantos20/desafiosFrontendMentor/tree/main/InteractiveCardDetailsForm)
-- Live Site URL: [Add live site URL here](https://heloisasantos20.github.io/desafiosFrontendMentor/InteractiveCardDetailsForm/)
+- Solution URL: [solution URL](https://github.com/HeloisaSantos20/desafiosFrontendMentor/tree/main/InteractiveCardDetailsForm)
+- Live Site URL: [live site URL](https://heloisasantos20.github.io/desafiosFrontendMentor/InteractiveCardDetailsForm/)
 
 ## My process
 
