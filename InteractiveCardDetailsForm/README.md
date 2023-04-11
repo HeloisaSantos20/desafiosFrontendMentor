@@ -44,8 +44,8 @@ Users should be able to:
 ### Built with
 
 - JavaScript 
-- DOM manipulation
-- DOM events
+- DOM Manipulation
+- DOM Events
 - Form data validation
 - Responsive Web Design
 - Semantic HTML5 markup
@@ -62,7 +62,7 @@ I will continue to deepen my knowledge in Javascript, especially in events and D
 
 ### Useful resources
 
-- [Events](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events)) - This content has helped me a lot in regards to DOM events.
+- [Events](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events) - This content has helped me a lot in regards to DOM events.
 - [Form data validation](https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Form_validation) - I learned from this content how to validate my form.
 
 
